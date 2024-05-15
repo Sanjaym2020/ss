@@ -1,0 +1,7 @@
+Employee ID: 001
+Employee Name: Mike
+Father's Name: John
+Employee Contact: 1234567
+Email Information: 001@example.com
+Employee Position: Manager
+Employee Salary: 50000

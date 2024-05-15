@@ -1,0 +1,7 @@
+Employee ID: 003
+Employee Name: Emily
+Father's Name: David
+Employee Contact: 3456789
+Email Information: 003@example.com
+Employee Position: Analyst
+Employee Salary: 35000

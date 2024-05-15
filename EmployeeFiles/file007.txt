@@ -1,0 +1,7 @@
+Employee ID: 007
+Employee Name: Sophia
+Father's Name: Christopher
+Employee Contact: 7890123
+Email Information: 007@example.com
+Employee Position: HR Manager
+Employee Salary: 55000
