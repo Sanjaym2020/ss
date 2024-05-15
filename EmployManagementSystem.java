@@ -104,7 +104,7 @@ class EmployDetail {
                 intConvertable = false;
                 Integer.parseInt(employ_salary);
             } catch (NumberFormatException n) {
-                intConvertable = false;
+                intConvertable = true;
                 System.out.println("Numbers are required. Please type again.");
                 System.out.print("Enter Employee's Salary ------: ");
                 employ_salary = sc.nextLine();
