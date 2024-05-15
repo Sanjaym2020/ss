@@ -1,0 +1,7 @@
+Employee ID: 009
+Employee Name: Olivia
+Father's Name: Benjamin
+Employee Contact: 9012345
+Email Information: 009@example.com
+Employee Position: Researcher
+Employee Salary: 65000

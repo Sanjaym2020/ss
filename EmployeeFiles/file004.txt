@@ -1,0 +1,7 @@
+Employee ID: 004
+Employee Name: James
+Father's Name: Michael
+Employee Contact: 4567890
+Email Information: 004@example.com
+Employee Position: Sales Representative
+Employee Salary: 30000

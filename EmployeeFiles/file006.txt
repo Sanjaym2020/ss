@@ -1,0 +1,7 @@
+Employee ID: 006
+Employee Name: Daniel
+Father's Name: Richard
+Employee Contact: 6789012
+Email Information: 006@example.com
+Employee Position: Designer
+Employee Salary: 35000

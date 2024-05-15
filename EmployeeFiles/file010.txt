@@ -1,0 +1,7 @@
+Employee ID: 010
+Employee Name: Ava
+Father's Name: Joseph
+Employee Contact: 0123456
+Email Information: 010@example.com
+Employee Position: Marketing Specialist
+Employee Salary: 38000

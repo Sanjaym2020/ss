@@ -1,0 +1,7 @@
+Employee ID: 008
+Employee Name: Ethan
+Father's Name: Matthew
+Employee Contact: 8901234
+Email Information: 008@example.com
+Employee Position: Engineer
+Employee Salary: 40000

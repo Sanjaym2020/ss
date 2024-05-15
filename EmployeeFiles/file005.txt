@@ -1,0 +1,7 @@
+Employee ID: 005
+Employee Name: Lily
+Father's Name: William
+Employee Contact: 5678901
+Email Information: 005@example.com
+Employee Position: Accountant
+Employee Salary: 45000

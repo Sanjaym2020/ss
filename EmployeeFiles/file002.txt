@@ -1,0 +1,7 @@
+Employee ID: 002
+Employee Name: Sarah
+Father's Name: Robert
+Employee Contact: 2345678
+Email Information: 002@example.com
+Employee Position: Developer
+Employee Salary: 44000
